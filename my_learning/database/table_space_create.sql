@@ -1,3 +1,4 @@
+    /*this is for orcle*/
     CREATE TABLESPACE zhaoyu_webapp
     DATAFILE 'D:/app/zhaoyu/oradata/mywebApp/zhaoyu_webapp.dbf'
     SIZE 20G 
